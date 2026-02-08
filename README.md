@@ -1,4 +1,4 @@
-##Hi, I'm Rachid 👋
+#Hi, I'm Rachid 👋
 
 College student at **Harbin Institute of Technology**.  
 I’m on a focused journey toward becoming an **AI engineer**.
