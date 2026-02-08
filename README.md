@@ -1,33 +1,14 @@
-# Hi there 👋, I'm Rachid Bessam
+Hi, I'm Rachid 👋
 
-I'm a **college student at Harbin Institute of Technology**, passionate about **Artificial Intelligence** and **Machine Learning**.  
-I’m on a journey to **master ML concepts, build practical projects, and explore the world of data and AI**. 🚀  
+College student at **Harbin Institute of Technology**.  
+I’m on a focused journey toward becoming an **AI engineer**.
 
----
+Currently learning **machine learning** by:
+- Studying core ML concepts
+- Building small projects to solidify understanding
+- Working with the Python data stack (NumPy, Pandas, Matplotlib, Seaborn)
+- Strengthening my foundations in math
+- Learning **databases, SQL, and APIs**
 
-## 🌱 What I'm Learning
-- **Python Data Ecosystem:** `NumPy`, `Pandas`, `Matplotlib`, `Seaborn` for data analysis and visualization.  
-- **Mathematics for ML:** Linear algebra, calculus, probability & statistics fundamentals.  
-- **Databases & APIs:** SQL, designing & querying databases, and integrating APIs.  
-
----
-
-## 🔭 Current Projects
-- **ML Mini Projects:** Implementing small ML experiments to solidify concepts.   
-- **Database & API Practice:** Building small apps and scripts that fetch and manage data efficiently.  
-
----
-
-## 💻 Skills
-- **Programming:** Pytho
-- **Tools & Libraries:** Jupyter Notebook | Git | GitHub | NumPy | Pandas | Matplotlib | Seaborn  
-- **Other:** Databases | APIs | Data Cleaning | Visualization  
-
----
-
-## ⚡ Fun Fact
-I believe **consistency and curiosity** are the keys to mastery.  
-Every project I build, every dataset I explore, is a step toward becoming a **skilled AI engineer**. 💡
- 
-
-
+I value consistency, curiosity, and learning by doing.  
+This GitHub documents my progress — one project at a time.
